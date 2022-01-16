@@ -2,8 +2,6 @@
     "entryPoints": ["./src/common/", "./src/constants/"],
     "out": "docs",
     "entryPointStrategy": "expand",
-    "json": "./out.json",
     "tsconfig": "./tsconfig.json",
-    "pretty": true,
-    "plugin": "typedoc-plugin-markdown"
+    "pretty": true
 }

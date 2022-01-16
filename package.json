@@ -120,7 +120,6 @@
     "ts-loader": "^9.2.6",
     "ts-node": "^10.4.0",
     "typedoc": "^0.22.10",
-    "typedoc-plugin-markdown": "^3.11.11",
     "typeorm-seeding": "^1.6.1",
     "typescript": "^4.5.4",
     "vuepress": "^2.0.0-beta.29",
